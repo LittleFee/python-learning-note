@@ -3,3 +3,4 @@
 # 每行不超过80字符，注释的行长都不超过72字符，在pycharm中可以在：File>Setting>Editor>Cod
 # estyle>Default Option 里设置Hard wrap at 为80，在编辑器的右侧就会有一条参考线，提醒你
 # 适当的空行有助于代码阅读，但是请不要滥用空行
+# 在诸如==、>=和<=等比较运算符两边各添加一个空格，例如，if age < 4:要比if age<4:好。

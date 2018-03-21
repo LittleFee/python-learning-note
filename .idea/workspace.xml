@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="233ff1a9-e89a-4a8d-9706-08a909e35c54" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day03/3-if.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day03/10-if-elif-else.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day03/11-if-practice.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day03/12-if-list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day03/13-if-list-practice.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day03/4-if-number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day03/5-if-and-or.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day03/6-in.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day03/7-bool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day03/8-practice-1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day03/9-practice-2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day03/0-tuple.py" afterPath="$PROJECT_DIR$/day03/0-tuple.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day03/2-PEP8-format.py" afterPath="$PROJECT_DIR$/day03/2-PEP8-format.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,9 +24,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python-learning-note$5_if_and.coverage" NAME="5-if-and Coverage Results" MODIFIED="1521613018262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/python-learning-note$8_practice_1.coverage" NAME="8-practice-1 Coverage Results" MODIFIED="1521614461968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/python-learning-note$9_practice_2.coverage" NAME="9-practice-2 Coverage Results" MODIFIED="1521616028225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/python-learning-note$3_if.coverage" NAME="3-if Coverage Results" MODIFIED="1521605064713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/python-learning-note$10_if_elif_else.coverage" NAME="10-if-elif-else Coverage Results" MODIFIED="1521617112272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/python-learning-note$11_if_practice.coverage" NAME="11-if-practice Coverage Results" MODIFIED="1521618374892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/python-learning-note$6_in.coverage" NAME="6-in Coverage Results" MODIFIED="1521613567133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/python-learning-note$1_practice_tuple.coverage" NAME="1-practice-tuple Coverage Results" MODIFIED="1521602488515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/python-learning-note$0_yuanzu.coverage" NAME="0-yuanzu Coverage Results" MODIFIED="1521602484672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
-    <SUITE FILE_PATH="coverage/python-learning-note$3_if.coverage" NAME="3-if Coverage Results" MODIFIED="1521605064713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/python-learning-note$13_if_list_practice.coverage" NAME="13-if-list-practice Coverage Results" MODIFIED="1521620743049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/python-learning-note$7_bool.coverage" NAME="7-bool Coverage Results" MODIFIED="1521613631518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/python-learning-note$4_if_number.coverage" NAME="4-if-number Coverage Results" MODIFIED="1521612679978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/python-learning-note$12_if_list.coverage" NAME="12-if-list Coverage Results" MODIFIED="1521619313332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -28,28 +47,8 @@
       <file leaf-file-name="0-tuple.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day03/0-tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1-practice-tuple.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day03/1-practice-tuple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <state relative-caret-position="380">
+              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -58,18 +57,48 @@
       <file leaf-file-name="2-PEP8-format.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day03/2-PEP8-format.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="100">
+              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3-if.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day03/3-if.py">
+      <file leaf-file-name="4-if-number.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day03/4-if-number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            <state relative-caret-position="160">
+              <caret line="8" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5-if-and-or.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day03/5-if-and-or.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6-in.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day03/6-in.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7-bool.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day03/7-bool.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -99,8 +128,21 @@
         <option value="$PROJECT_DIR$/day03/0-yuanzu.py" />
         <option value="$PROJECT_DIR$/day03/1-practice-tuple.py" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/day03/2-PEP8-format.py" />
         <option value="$PROJECT_DIR$/day03/3-if.py" />
+        <option value="$PROJECT_DIR$/day03/4-if-number.py" />
+        <option value="$PROJECT_DIR$/day03/4-if-and.py" />
+        <option value="$PROJECT_DIR$/day03/5-if-and.py" />
+        <option value="$PROJECT_DIR$/day03/6-in.py" />
+        <option value="$PROJECT_DIR$/day03/8-practice-1.py" />
+        <option value="$PROJECT_DIR$/day03/9-practice-2.py" />
+        <option value="$PROJECT_DIR$/day03/10-if-elif-else.py" />
+        <option value="$PROJECT_DIR$/day03/11-if-practice.py" />
+        <option value="$PROJECT_DIR$/day03/12-if-list.py" />
+        <option value="$PROJECT_DIR$/day03/13-if-list-practice.py" />
+        <option value="$PROJECT_DIR$/day03/2-PEP8-format.py" />
+        <option value="$PROJECT_DIR$/day03/0-tuple.py" />
+        <option value="$PROJECT_DIR$/day03/5-if-and-or.py" />
+        <option value="$PROJECT_DIR$/day03/7-bool.py" />
       </list>
     </option>
   </component>
@@ -173,8 +215,8 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="Python.3-if">
-    <configuration default="false" name="0-yuanzu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.13-if-list-practice">
+    <configuration default="false" name="9-practice-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -187,12 +229,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python-learning-note\day03\0-tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/9-practice-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="1-practice-tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="10-if-elif-else" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -205,12 +247,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/1-practice-tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/10-if-elif-else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="3-if" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="11-if-practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -223,7 +265,43 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonLearning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/3-if.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/11-if-practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="12-if-list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/12-if-list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="13-if-list-practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/13-if-list-practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -442,16 +520,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python.0-yuanzu" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1-practice-tuple" />
-      <item index="2" class="java.lang.String" itemvalue="Python.3-if" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.9-practice-2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.10-if-elif-else" />
+      <item index="2" class="java.lang.String" itemvalue="Python.11-if-practice" />
+      <item index="3" class="java.lang.String" itemvalue="Python.12-if-list" />
+      <item index="4" class="java.lang.String" itemvalue="Python.13-if-list-practice" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.3-if" />
-        <item index="1" class="java.lang.String" itemvalue="Python.1-practice-tuple" />
-        <item index="2" class="java.lang.String" itemvalue="Python.0-yuanzu" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.13-if-list-practice" />
+        <item index="1" class="java.lang.String" itemvalue="Python.12-if-list" />
+        <item index="2" class="java.lang.String" itemvalue="Python.11-if-practice" />
+        <item index="3" class="java.lang.String" itemvalue="Python.10-if-elif-else" />
+        <item index="4" class="java.lang.String" itemvalue="Python.9-practice-2" />
       </list>
     </recent_temporary>
   </component>
@@ -477,7 +559,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -489,7 +571,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15619968" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -513,26 +595,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day03/0-tuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day03/1-practice-tuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -541,18 +609,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day03/2-PEP8-format.py">
+    <entry file="file://$PROJECT_DIR$/day03/1-practice-tuple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="240">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day03/3-if.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        <state relative-caret-position="500">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/8-practice-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/9-practice-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="43" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/10-if-elif-else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="35" column="42" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/11-if-practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="84" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="84" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/12-if-list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/13-if-list-practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="63" column="28" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/0-tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/2-PEP8-format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/4-if-number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/5-if-and-or.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/6-in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/7-bool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="18" />
           <folding />
         </state>
       </provider>
