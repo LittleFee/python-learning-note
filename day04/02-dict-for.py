@@ -59,5 +59,3 @@ for language in sorted(languages.values(),reverse=True):
 # set 可以去除掉值中的重复值（键本身唯一 所以不需要）
 for language in set(languages.values()):
     print(language)
-
-
