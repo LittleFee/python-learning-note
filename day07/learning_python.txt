@@ -1,0 +1,4 @@
+In Python you can handle data
+In Python you can build website
+In Python you can do something amazing
+In Python you can love this language
