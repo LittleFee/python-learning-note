@@ -12,3 +12,4 @@ class Child(Caculater,Talker):
 child=Child()
 child.cacu('3+2-4')
 child.talk()
+# Value is 1
